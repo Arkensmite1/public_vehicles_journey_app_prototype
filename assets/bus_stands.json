@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kashmere Gate ISBT",
+    "city": "Delhi",
+    "latitude": 28.6654,
+    "longitude": 77.2320
+  },
+  {
+    "name": "Alambagh Bus Stand",
+    "city": "Lucknow",
+    "latitude": 26.8006,
+    "longitude": 80.9134
+  },
+  {
+    "name": "Idgah Bus Stand",
+    "city": "Agra",
+    "latitude": 27.1718,
+    "longitude": 78.0036
+  },
+  {
+    "name": "Jhakarkati Bus Stand",
+    "city": "Kanpur",
+    "latitude": 26.4597,
+    "longitude": 80.3372
+  },
+  {
+    "name": "Varanasi Bus Stand",
+    "city": "Varanasi",
+    "latitude": 25.3176,
+    "longitude": 82.9739
+  }
+]
